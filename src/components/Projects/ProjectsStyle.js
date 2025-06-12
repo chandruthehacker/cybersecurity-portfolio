@@ -58,6 +58,10 @@ export const ToggleButtonGroup = styled.div`
     border-radius: 12px;
     font-weight: 500;
     margin: 22px 0px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none; 
     @media (max-width: 768px) {
         font-size: 12px;
     }

@@ -31,7 +31,7 @@ export const HeroBg = styled.div`
   max-width: 1360px;
   overflow: hidden;
   padding: 0 30px;
-  top: 50%;
+  top: 56%;
   left: 50%;
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
@@ -100,12 +100,12 @@ export const Img = styled.img`
 
   @media (max-width: 768px) {
     max-width: 400px;
-    max-height: 400px;
+    max-height: auto;
   }
 
   @media (max-width: 640px) {
     max-width: 280px;
-    max-height: 280px;
+    max-height: auto;
   }
 `;
 
