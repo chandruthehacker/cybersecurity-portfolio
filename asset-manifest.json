@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cybersecurity-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/cybersecurity-portfolio/static/js/main.0885e70e.js",
+    "static/media/HeroImage.jpg": "/cybersecurity-portfolio/static/media/HeroImage.f23d14d212b34f19d8a7.jpg",
+    "index.html": "/cybersecurity-portfolio/index.html",
+    "main.bf538fe7.css.map": "/cybersecurity-portfolio/static/css/main.bf538fe7.css.map",
+    "main.0885e70e.js.map": "/cybersecurity-portfolio/static/js/main.0885e70e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.0885e70e.js"
+  ]
+}
