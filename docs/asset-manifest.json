@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/cybersecurity-portfolio/static/css/main.b46b2d0b.css",
-    "main.js": "/cybersecurity-portfolio/static/js/main.11a3c201.js",
-    "static/media/home.png": "/cybersecurity-portfolio/static/media/home.f403055339200c3673b0.png",
-    "static/media/gtn.png": "/cybersecurity-portfolio/static/media/gtn.6e448276ac892cff6c90.png",
-    "static/media/honeypot.jpg": "/cybersecurity-portfolio/static/media/honeypot.d3de711a20f5b78afa43.jpg",
-    "static/media/log-parser.jpg": "/cybersecurity-portfolio/static/media/log-parser.03d1a33a18c2f56ea9bc.jpg",
-    "static/media/school.png": "/cybersecurity-portfolio/static/media/school.bc90b2497c87e74fc41b.png",
-    "static/media/phising-detector.jpg": "/cybersecurity-portfolio/static/media/phising-detector.d880ffce20dc622353f8.jpg",
-    "static/media/project.png": "/cybersecurity-portfolio/static/media/project.c122a82de78158da255f.png",
-    "static/media/cybersecurity-learn.png": "/cybersecurity-portfolio/static/media/cybersecurity-learn.9dbf391f9ac332d6d9de.png",
-    "index.html": "/cybersecurity-portfolio/index.html",
-    "main.b46b2d0b.css.map": "/cybersecurity-portfolio/static/css/main.b46b2d0b.css.map",
-    "main.11a3c201.js.map": "/cybersecurity-portfolio/static/js/main.11a3c201.js.map"
+    "main.css": "/static/css/main.b46b2d0b.css",
+    "main.js": "/static/js/main.9e628980.js",
+    "static/media/home.png": "/static/media/home.f403055339200c3673b0.png",
+    "static/media/gtn.png": "/static/media/gtn.6e448276ac892cff6c90.png",
+    "static/media/honeypot.jpg": "/static/media/honeypot.d3de711a20f5b78afa43.jpg",
+    "static/media/log-parser.jpg": "/static/media/log-parser.03d1a33a18c2f56ea9bc.jpg",
+    "static/media/school.png": "/static/media/school.bc90b2497c87e74fc41b.png",
+    "static/media/phising-detector.jpg": "/static/media/phising-detector.d880ffce20dc622353f8.jpg",
+    "static/media/project.png": "/static/media/project.c122a82de78158da255f.png",
+    "static/media/cybersecurity-learn.png": "/static/media/cybersecurity-learn.9dbf391f9ac332d6d9de.png",
+    "index.html": "/index.html",
+    "main.b46b2d0b.css.map": "/static/css/main.b46b2d0b.css.map",
+    "main.9e628980.js.map": "/static/js/main.9e628980.js.map"
   },
   "entrypoints": [
     "static/css/main.b46b2d0b.css",
-    "static/js/main.11a3c201.js"
+    "static/js/main.9e628980.js"
   ]
 }
